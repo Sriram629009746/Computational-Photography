@@ -1,1 +1,1 @@
-# CSCE-689-Computational-Photography
+# Computational-Photography
